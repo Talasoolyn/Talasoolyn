@@ -15,7 +15,8 @@ Analyzed the full EMS call lifecycle in NYC using FDNY dispatch data (~28.7M rec
 
 **Findings:** Tree-based ensembles outperformed linear and LSTM models. Hospital turnaround (median ≈ 40 min) and on-scene time (≈ 22 min) drive total cycle time far more than dispatch or travel.
 
-`Python` `pandas` `scikit-learn` `XGBoost` `LightGBM` `TensorFlow` `Survival analysis`
+`Python` `Machine Learning` `Deep Learning` `Random Forest` `LSTM` `DeepSurv` `pandas` `scikit-learn` `XGBoost` `LightGBM` `TensorFlow` `Survival analysis`
+
 
 #### 🏈 [Does a Bigger Budget Mean Better Football?](https://github.com/Talasoolyn/ncaa-roi-analysis)
 
@@ -30,14 +31,15 @@ Tested whether college football programs that spend more win more, using three d
 
 Detects AI-generated speech using **Wav2Vec2 embeddings** and Mel-spectrogram features on 2-second audio clips. Compared a baseline MLP, a dropout-regularized MLP, and a spectrogram-based model. Test accuracy on the Fake-or-Real dataset improved from about 53% for the first baseline to about 92% for the best model.
 
-`Python` `PyTorch` `Hugging Face Transformers` `Librosa`
+`Python` `Machine Learning` `Deep Learning` `MLP` `Wav2Vec2` `PyTorch` `Hugging Face Transformers` `Librosa`
+
 
 #### 🧾 [Invoice Processing Automation](https://github.com/Talasoolyn/galatiq-Assessment)
 *Case study prototype*
 
 An end-to-end pipeline that automates a four-stage invoice workflow (**ingest → validate → approve → pay**), reading five file formats. An LLM handles messy text extraction and approval reasoning with a self-critique pass, while the costly business rules (such as the $10K scrutiny threshold) are enforced in plain Python. A batch runner produces an audit-friendly summary of every decision.
 
-`Python` `LLM APIs` `SQLite`
+`Python` `LLM APIs` `SQLite` `AI-Agents` `sqlite`
 
 ---
 
