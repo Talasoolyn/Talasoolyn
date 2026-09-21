@@ -45,7 +45,7 @@ An end-to-end pipeline that automates a four-stage invoice workflow (**ingest â†
 
 - **Languages:** Python, SQL, R
 - **Analysis and modeling:** regression, tree-based ensembles, deep learning, survival analysis, feature engineering, entity resolution
-- **Libraries and tools:** pandas, scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, tidyverse, DuckDB, SQLite, Quarto, Jupyter, Git
+- **Libraries and tools:** pandas, scikit-learn,NumPy, XGBoost, LightGBM, TensorFlow, PyTorch, tidyverse, DuckDB, SQLite, Quarto, Jupyter, Git
 - **Domains:** healthcare, emergency services, public data
 
 ---
