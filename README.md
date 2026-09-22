@@ -1,6 +1,6 @@
 ### Hi, I'm Tal 👋
 
-I'm a data scientist with an MS in Information Studies from UT Austin (GPA 4.0), focused on healthcare and public-safety analytics. I design, build, and deploy machine learning solutions on large-scale operational and regulated datasets, turning complex analysis into insights people can act on.
+I'm a Data Scientist with an M.S. in Information Science from UT Austin, combining business thinking with data science to solve real-world problems. My experience spans data analytics, machine learning, deep learning, and AI/LLM applications, with a focus on building practical, data-driven solutions.
 
 📍 Austin, TX &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/tal-asoolyn-9599401b8/)
 
@@ -43,15 +43,15 @@ An end-to-end pipeline that automates a four-stage invoice workflow (**ingest �
 
 ---
 
-### Skills
+### Tech Stack
 
-- **Languages:** Python, SQL, R
+- **Languages:** Python, SQL, R, Excel
 - **Analysis and modeling:** regression, tree-based ensembles, deep learning, survival analysis, feature engineering, entity resolution
-- **Libraries and tools:** pandas, scikit-learn,NumPy, XGBoost, LightGBM, TensorFlow, PyTorch, tidyverse, DuckDB, SQLite, Quarto, Jupyter, Git
-- **Domains:** healthcare, emergency services, public data
-
+- **Libraries and tools:** pandas, scikit-learn,NumPy, XGBoost, LightGBM, TensorFlow, PyTorch, tidyverse, DuckDB, SQLite, Quarto
+- **Visualization:** Tableau · Matplotlib · Plotly
+- **Engineering & Tools:** Git · GitHub · APIs · Jupyter · Docker
 ---
 
 ### Currently
 
-Looking for data analyst and data scientist roles. Happy to talk about healthcare analytics, emergency response data, or anything on this page.
+Exploring opportunities in **data science, analytics, machine learning, AI, and data-driven product/engineering roles.**
