@@ -46,7 +46,7 @@ An end-to-end pipeline that automates a four-stage invoice workflow (**ingest 鈫
 ### Tech Stack
 
 - **Languages:** Python, SQL, R, Excel
-- **Analysis and modeling:** regression, tree-based ensembles, deep learning, survival analysis, feature engineering, entity resolution
+- **Analysis and modeling:** regression, tree-based ensembles, deep learning, survival analysis, feature engineering
 - **Libraries and tools:** pandas, scikit-learn,NumPy, XGBoost, LightGBM, TensorFlow, PyTorch, tidyverse, DuckDB, SQLite, Quarto
 - **Visualization:** Tableau 路 Matplotlib 路 Plotly
 - **Engineering & Tools:** Git 路 GitHub 路 APIs 路 Jupyter 路 Docker
