@@ -1,6 +1,6 @@
 ### Hi, I'm Tal 👋
 
-I'm a data scientist focused on **healthcare and public-safety analytics**. I hold an MS in Information Studies from UT Austin, and I previously worked as a healthcare data analyst at the Ministry of Health. Before that, and alongside it, I served as an EMT and instructor with Magen David Adom, so I care about data that improves real-world outcomes.
+I'm a data scientist with an MS in Information Studies from UT Austin (GPA 4.0), focused on healthcare and public-safety analytics. I design, build, and deploy machine learning solutions on large-scale operational and regulated datasets, turning complex analysis into insights people can act on.
 
 📍 Austin, TX &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/tal-asoolyn-9599401b8/)
 
